@@ -1,0 +1,1 @@
+console.log(`Você pagou vinte reais pelo morango do amor?`);
